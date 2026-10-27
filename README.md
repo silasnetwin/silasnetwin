@@ -1,26 +1,16 @@
 ﻿<div align="center">
 
-# SILAS D.
+# Projekte & Experimente
 
-**Software · Desktop Apps · Self-hosting**
+**Windows · Lokale KI · Infrastruktur**
 
-I build software that solves real problems — from native Windows applications to self-hosted infrastructure.
-
-[![GitHub](https://img.shields.io/badge/GitHub-silasnetwin-18181b?style=flat-square&logo=github)](https://github.com/silasnetwin)
-[![Repositories](https://img.shields.io/badge/Explore-Projects-8b5cf6?style=flat-square&logo=github)](https://github.com/silasnetwin?tab=repositories)
+Software, Werkzeuge und Systeme, die ich selbst entwickle und betreibe.
 
 </div>
 
 ---
 
-## About
-
-- Building practical Windows software and developer tools
-- Interested in local AI, speech recognition and offline-first applications
-- Running Linux services with Docker and self-hosted infrastructure
-- Focused on clean interfaces, performance and useful features
-
-## Featured projects
+## Projekte
 
 <table>
 <tr>
@@ -28,31 +18,30 @@ I build software that solves real problems — from native Windows applications 
 
 ### SonaBar
 
-A private, offline speech-to-text app for Windows.
+Spracherkennung direkt auf Windows – ohne Cloud, Konto oder Telemetrie.
 
-- Native WPF desktop interface
-- Local speech recognition with whisper.cpp
-- Local writing models
-- No account, telemetry or cloud dependency
+- Native Windows-Oberfläche
+- Lokale Spracherkennung mit whisper.cpp
+- Lokale Schreibmodelle
 
-**Tech:** C# · WPF · whisper.cpp
+`C#` `WPF` `Lokale KI`
 
-[View repository →](https://github.com/silasnetwin/SonaBar)
+[Quellcode ansehen](https://github.com/silasnetwin/SonaBar)
 
 </td>
 <td width="50%" valign="top">
 
 ### SilasDownloader
 
-A portable video and audio downloader for Windows.
+Portabler Downloader für Windows mit Video-, Audio- und Konvertierungsfunktionen.
 
-- Video and series downloads
-- Audio workflows and conversion
-- Server-upload functionality
+- Video- und Audio-Downloads
+- Konvertierung
+- Upload auf Server
 
-**Tech:** Rust
+`Rust` `Windows`
 
-[View repository →](https://github.com/silasnetwin/silasdownloader)
+[Quellcode ansehen](https://github.com/silasnetwin/silasdownloader)
 
 </td>
 </tr>
@@ -61,51 +50,51 @@ A portable video and audio downloader for Windows.
 
 ### SilasBackup
 
-Backup tooling and infrastructure experiments.
+Ein eigenes Projekt rund um Datensicherung und zuverlässige Abläufe.
 
-[View repository →](https://github.com/silasnetwin/silasbackup)
+[Quellcode ansehen](https://github.com/silasnetwin/silasbackup)
 
 </td>
 <td width="50%" valign="top">
 
-### More projects
+### SNine Launcher
 
-Explore my other public repositories, experiments and tools.
+Launcher-Entwicklung und Experimente rund um Minecraft.
 
-[Browse all repositories →](https://github.com/silasnetwin?tab=repositories)
+`Launcher` `Minecraft`
+
+[Quellcode ansehen](https://github.com/silasnetwin/SNine-Launcher)
 
 </td>
 </tr>
 </table>
 
-## Technologies
+## Technischer Schwerpunkt
 
-<div align="center">
+```text
+ENTWICKLUNG
+  C# · Rust · PowerShell · JavaScript
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-18181b?style=flat-square&logo=rust&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+SYSTEME
+  Windows · Debian · Linux
 
-</div>
+INFRASTRUKTUR
+  Docker · Proxmox · Self-Hosting
 
-## GitHub activity
+INTERESSEN
+  Lokale KI · Automatisierung · Desktop-Software
+```
 
-<div align="center">
+## Weitere Projekte
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=silasnetwin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub statistics">
+Neben meinen größeren Projekten entwickle ich kleinere Werkzeuge, Websites und technische Experimente.
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=silasnetwin&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" alt="Most used languages">
-
-</div>
+[Alle öffentlichen Repositories durchsuchen →](https://github.com/silasnetwin?tab=repositories)
 
 ---
 
 <div align="center">
 
-*Built with curiosity. Improved through iteration.*
+<sub>Quellcode, Experimente und laufende Entwicklung.</sub>
 
 </div>
